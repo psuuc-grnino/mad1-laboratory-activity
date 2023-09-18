@@ -11,7 +11,7 @@ class MyProfileApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          leading: Icon(Icons.egg),
+          leading: Icon(Icons.apple),
           title: Text('My Profile'),
           backgroundColor: Colors.purple, // Set the app banner color to purple
         ),
